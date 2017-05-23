@@ -1,0 +1,4 @@
+#Tue May 23 16:54:36 PDT 2017
+base.0=/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

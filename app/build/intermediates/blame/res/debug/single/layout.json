@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/layout/activity_item.xml",
+        "source": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/src/main/res/layout/activity_item.xml"
+    },
+    {
+        "merged": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/layout/activity_items.xml",
+        "source": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/src/main/res/layout/activity_items.xml"
+    },
+    {
+        "merged": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/layout/fragment_item.xml",
+        "source": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/src/main/res/layout/fragment_item.xml"
+    },
+    {
+        "merged": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/layout/fragment_items.xml",
+        "source": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/src/main/res/layout/fragment_items.xml"
+    },
+    {
+        "merged": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/Users/karamanseau/Desktop/HM_ch09_ex4_NewsReader/app/src/main/res/layout/listview_item.xml"
+    }
+]
